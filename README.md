@@ -24,7 +24,8 @@ An educational Java project implementing lexical analysis, recursive-descent par
 
 A collaborative software engineering project focused on requirements analysis, UML modeling, and interactive Figma prototyping for a campus connectivity issue management system.
 
-### TÜBİTAK 2209-B — Personalized Mobile Communication Application
+
+### [TÜBİTAK 2209-B — Personalized Mobile Communication Application](https://github.com/denizakgl/tubitak-2209b-assistive-communication)
 
 A university-industry research project exploring a customizable mobile communication application designed to support individuals with special communication needs.
 
